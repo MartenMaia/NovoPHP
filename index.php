@@ -1,5 +1,7 @@
 <?
 
-echo "Olá Mundo";
+echo "Olá Mundo para todos!";
+
+echo "Olá Novamente!";
 
 ?>
